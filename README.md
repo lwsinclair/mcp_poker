@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/freshlife001-mcp-poker-badge.png)](https://mseep.ai/app/freshlife001-mcp-poker)
+
 # Texas Holdem MCP Server
 
 This is an [Model Context Protocol server](https://github.com/modelcontextprotocol/servers) that allows an MCP client agents to play a game of [Texas Holdem poker game](<https://simple.wikipedia.org/wiki/Texas_hold_%27em>). It is implemented with Node.js and TypeScript, including game server, game client, and a MCP Server.
